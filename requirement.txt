@@ -32,3 +32,4 @@ arxiv
 langgraph-supervisor
 ipykernel
 pyppeteer
+langchain-google-genai
